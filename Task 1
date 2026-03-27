@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>UMT</title>
+<link type="image"href="imglogo.jpeg ">
+</head>
+
+<body background="imgbg.jpeg">
+<center>
+	<br><br><br><br>
+<img src="imglogo.jpeg" width="150">
+<br>
+<table border="3" bgcolor="white" cellpadding="7">
+ <tr>
+ <td colspan="2" align="center">Already have an account?</td>
+</tr>
+<br><br>
+
+<tr>
+<td>USERNAME</td>
+<td><input type="text" value="Enter your Name"></td>
+</tr>
+<tr>
+<td>PASSWORD</td>
+<td><input type="password" value="Enter your password "></td>
+</tr>
+<tr>
+
+<td colspan="2" align="center" bgcolor="blue" ><input type="submit"  value="      LOGIN      "></td>
+</tr>
+
+<tr>
+ <td colspan="2"><input type="checkbox">Remember username</td>
+ 
+</tr>
+<tr>
+
+<td colspan="2"><a href="#">Password Forgotten?</a></td>
+ 
+</tr>
+</table>
+
+
+</center>
+ 
+ 
+ </body>
+
+
+</html>
